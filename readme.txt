@@ -4,7 +4,7 @@ Description: Woocommerce Pay in Store Gateway
 Version: 1.0.0
 Author: Emspace
 Author URI: http://emspace.gr/
-Contributors: woothemes
+Contributors: mpbm23
 Tags: ecommerce, e-commerce,  wordpress ecommerce, gateway
 
 Requires at least: 3.8
@@ -24,7 +24,8 @@ Provides a Pay in Store upon pick up Payment Gateway for Woocommerce. Woocommerc
 == Frequently Asked Questions ==
 
 
-=Does is work?=
+Does is work?
+
 Yes, it's just a copy and rename of Cash on Delivery Payment Gateway
 
 
