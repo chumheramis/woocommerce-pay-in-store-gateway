@@ -4,7 +4,7 @@ Description: Woocommerce Pay in Store Gateway
 Version: 1.0.0
 Author: Emspace
 Author URI: http://emspace.gr/
-Contributors: mpbm23
+Contributors: mpbm23,emspacegr
 Tags: ecommerce, e-commerce,  wordpress ecommerce, gateway
 
 Requires at least: 3.8
