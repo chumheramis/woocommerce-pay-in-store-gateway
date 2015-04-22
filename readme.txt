@@ -8,7 +8,7 @@ Contributors: mpbm23,emspacegr
 Tags: ecommerce, e-commerce,  wordpress ecommerce, gateway
 
 Requires at least: 3.8
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 2.3.3
 
 License: GPLv3 or later
